@@ -1,0 +1,28 @@
+table {
+    border: outset;
+    width: 700px;
+    text-align: center;
+    color: rgb(97, 31, 31);
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+td {
+    border: 1px solid;
+    /* background-image: url(../img/huellas.jpg); */
+}
+
+#title {
+    background-color: rgb(56, 112, 56);
+}
+
+.pinkfondo {
+    background-color: pink;
+}
+
+.yelfondo {
+    background-color: rgb(228, 213, 79);
+}
+
+.imgfondo {
+    background-image: url(../img/huellas.jpg);
+}
